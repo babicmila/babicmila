@@ -1,6 +1,8 @@
-### Hi there, I am a Junior Software Engineer 👋
+### Hi there 👋
 
-🔭 Git Pages: https://babicmila.github.io/
+😄 I am a Junior Software Engineer.
+
+🔭 My Git Pages: https://babicmila.github.io/
 
 📫 How to reach me: https://www.linkedin.com/in/mila-babic/
 
