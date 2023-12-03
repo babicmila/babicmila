@@ -2,7 +2,7 @@
 
 😄 I am a Junior Software Engineer.
 
-🔭 My Git Pages: https://babicmila.github.io/
+🔭 My Git Pages website: https://babicmila.github.io/
 
 📫 How to reach me: https://www.linkedin.com/in/mila-babic/
 
