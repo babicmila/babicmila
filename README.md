@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-😄 I am a Junior Software Engineer.
-
 🔭 Personal GitHub Pages website: https://babicmila.github.io/
 
 📫 How to reach me: https://www.linkedin.com/in/mila-babic/
