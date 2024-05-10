@@ -3,7 +3,9 @@
 <!--🔭 Personal GitHub Pages website: https://babicmila.github.io/
 -->
 
-📫 How to reach me: https://www.linkedin.com/in/mila-babic/
+📫 How to reach me: www.linkedin.com/in/mila-babic
+
+🔭 Portfolio website: www.babicmila.co
 
 <!--
 **babicmila/babicmila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
